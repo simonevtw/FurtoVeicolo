@@ -1,0 +1,8 @@
+name: FurtoVeicolo
+version: '${version}'
+
+main: me.simonevtw.furtoVeicolo.Main
+api-version: '1.21.8'
+load: POSTWORLD
+
+depend: [VehiclesPlus, NpcPlugin, WorldGuard]
