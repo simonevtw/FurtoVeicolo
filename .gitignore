@@ -1,4 +1,5 @@
 .idea/
+.libs/
 target/
 *.iml
 # Default ignored files
